@@ -5,7 +5,8 @@
 2. Install BlastP using miniconda
 ```
 conda install -c bioconda blast
-#version check
+```
+check version
 ```
 blastp -version
 ```
