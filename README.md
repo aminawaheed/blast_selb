@@ -9,7 +9,6 @@ conda install -c bioconda blast
 ```
 blastp -version
 ```
-```
 To get blastp version 2.12.0, may need to use 
 ```
 conda install -c bioconda blast=2.12.0 -y
